@@ -1,0 +1,25 @@
+[
+  {
+    "abbr": "VHL",
+    "names":[
+      "Void Highlord"
+    ],
+    "ratings":{
+      "damage":"A",
+      "survival":"S",
+      "farming":"B",
+      "pvp":"A",
+      "ultras":"C",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "class":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory"
+      }
+    ]
+    
+  }
+]
