@@ -67,5 +67,39 @@
       }
     ]
     
+  },
+  {
+    "abbr": "PCM",
+    "names":[
+      "Paladin Chronomancer",
+      "Obsidian Paladin Chronomancer",
+    ],
+	"tags":[
+		"support",
+		"ultra",
+		"healer",
+		"tank",
+		"pvp"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"S",
+      "farming":"D",
+      "pvp":"S",
+      "ultras":"A",
+      "support":"S"
+    },
+    "enhancements":[
+      {
+        "weapon":"Healer Mana Vamp",
+        "armor":"Healer",
+        "helm":"Healer",
+        "cape":"Penitence",
+		"dps":{
+        }
+
+      }
+    ]
+    
   }
 ]
