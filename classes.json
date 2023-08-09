@@ -49,6 +49,8 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
+			"classhall":16906,
+			"classhallNsod":25752
         }
 
       }
