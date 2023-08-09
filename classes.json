@@ -15,12 +15,12 @@
     "enhancements":[
       {
         "weapon":"Dauntless",
-        "class":"Luck",
+        "armor":"Luck",
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
           "classhall":12118,
-          "classhall-nsod":18363
+          "classhallNsod":18363
         }
 
       }
