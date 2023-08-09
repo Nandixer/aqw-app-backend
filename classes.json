@@ -5,7 +5,8 @@
       "Void Highlord"
     ],
 	"tags":[
-		"tank"
+		"tank",
+		"solo"
 	],
     "ratings":{
       "damage":"A",
@@ -39,7 +40,8 @@
     ],
 	"tags":[
 		"dodge",
-		"chrono"
+		"chrono",
+		"solo"
 	],
     "ratings":{
       "damage":"S",
