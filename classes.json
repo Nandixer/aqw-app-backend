@@ -4,6 +4,9 @@
     "names":[
       "Void Highlord"
     ],
+	"tags":[
+		"tank"
+	],
     "ratings":{
       "damage":"A",
       "survival":"S",
@@ -34,6 +37,10 @@
       "ShadowWalker of Time",
       "ShadowWeaver of Time"
     ],
+	"tags":[
+		"dodge",
+		"chrono"
+	],
     "ratings":{
       "damage":"S",
       "survival":"A",
