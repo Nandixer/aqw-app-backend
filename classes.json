@@ -26,5 +26,33 @@
       }
     ]
     
+  },
+  {
+    "abbr": "SSoT",
+    "names":[
+      "ShadowStalker of Time",
+      "ShadowWalker of Time",
+      "ShadowWeaver of Time"
+    ],
+    "ratings":{
+      "damage":"S",
+      "survival":"A",
+      "farming":"A",
+      "pvp":"A",
+      "ultras":"B",
+      "support":"C"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ]
+    
   }
 ]
