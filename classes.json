@@ -17,7 +17,12 @@
         "weapon":"Dauntless",
         "class":"Luck",
         "helm":"Vim",
-        "cape":"Vainglory"
+        "cape":"Vainglory",
+		"dps":{
+          "classhall":12118,
+          "classhall-nsod":18363
+        }
+
       }
     ]
     
