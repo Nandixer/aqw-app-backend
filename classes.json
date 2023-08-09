@@ -50,7 +50,9 @@
         "cape":"Vainglory",
 		"dps":{
 			"classhall":16906,
-			"classhallNsod":25752
+			"classhallNsod":25752,
+			"revenant":15,
+			"revenantNsod":18
         }
 
       }
