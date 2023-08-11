@@ -159,5 +159,45 @@
 		"4 5 3 2"
 	]
     
+  },
+  {
+    "abbr": "DoT",
+    "names":[
+      "Dragon of Time"
+    ],
+	"tags":[
+		"farming",
+		"solo"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"B",
+      "farming":"S",
+      "pvp":"S",
+      "ultras":"B",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Valiance",
+        "armor":"Healer",
+        "helm":"Healer",
+        "cape":"Vainglory",
+		"dps":{
+			"classhall":9181,
+			"classhallNsod":10411,
+			"revenant":18,
+			"revenantNsod":20
+        }
+
+      }
+    ],
+	"combo":[
+		"Use for soloing:",
+		"2 3 5 4 3",
+		"Use for farming",
+		"4 5 3 2 3"
+	]
+    
   }
 ]
