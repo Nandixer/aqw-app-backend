@@ -77,7 +77,7 @@
 		"4 3 2",
 		"Double Nuke:",
 		"5 3 2 3 2",
-		"Wait half a second, then repeat"
+		"Wait half a second, then repeat."
 	]
     
   },
@@ -119,6 +119,44 @@
 		"With 4 available:",
 		"4 2 3 2 5",
 		"Otherwise spam skills."
+	]
+    
+  },
+  {
+    "abbr": "LR",
+    "names":[
+      "Legion Revenant"
+    ],
+	"tags":[
+		"farming",
+		"ultra"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"A",
+      "farming":"S",
+      "pvp":"A",
+      "ultras":"S",
+      "support":"S"
+    },
+    "enhancements":[
+      {
+        "weapon":"Valiance",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Vainglory",
+		"dps":{
+			"classhall":6475,
+			"classhallNsod":11590,
+			"revenant":17,
+			"revenantNsod":23
+        }
+
+      }
+    ],
+	"combo":[
+		"Spam your skills:",
+		"4 5 3 2"
 	]
     
   }
