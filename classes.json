@@ -199,5 +199,43 @@
 		"4 5 3 2 3"
 	]
     
+  },
+  {
+
+    "abbr": "CMP",
+    "names":[
+      "Chronomancer",
+      "Chronomancer Prime"
+    ],
+	"tags":[
+		"chrono"
+	],
+    "ratings":{
+      "damage":"S",
+      "survival":"C",
+      "farming":"C",
+      "pvp":"C",
+      "ultras":"D",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"classhall":14305,
+			"classhallNsod":29255
+        }
+
+      }
+    ],
+	"combo":[
+		"Repeat:",
+		"2 2 2 2 4",
+		"The other two skills are not needed with Dauntless."
+	]
+    
   }
 ]
