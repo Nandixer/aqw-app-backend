@@ -237,5 +237,48 @@
 		"The other two skills are not needed with Dauntless."
 	]
     
+  },
+  {
+    "abbr": "Quantum Chronomancer",
+    "names":[
+      "Continuum Chronomancer"
+    ],
+	"tags":[
+		"chrono",
+		"ultra"
+	],
+    "ratings":{
+      "damage":"S",
+      "survival":"B",
+      "farming":"C",
+      "pvp":"A",
+      "ultras":"S",
+      "support":"A"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"classhall":13259,
+			"classhallNsod":23341
+        }
+
+      },
+      {
+        "weapon":"Praxis",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Penitence"
+
+      }
+    ],
+	"combo":[
+		"2 3 2",
+		"2 4 2 5"
+	]
+    
   }
 ]
