@@ -150,7 +150,18 @@
 			"classhallNsod":11590,
 			"revenant":17,
 			"revenantNsod":23
-        }
+        },
+		"name":"General Use"
+
+      },
+      {
+        "weapon":"Arcana",
+        "armor":"Wizard",
+        "helm":"Wizard",
+        "cape":"Penitence",
+		"dps":{
+        },
+		"name":"Ultras"
 
       }
     ],
