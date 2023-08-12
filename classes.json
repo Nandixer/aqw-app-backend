@@ -265,7 +265,8 @@
 		"dps":{
 			"classhall":13259,
 			"classhallNsod":23341
-        }
+        },
+		"name":"Solo Play"
 
       },
       {
@@ -274,7 +275,8 @@
         "helm":"Forge",
         "cape":"Penitence",
 		"dps":{
-		}
+		},
+		"name":"Team Play & Ultras"
 
       }
     ],
