@@ -272,7 +272,9 @@
         "weapon":"Praxis",
         "armor":"Luck",
         "helm":"Forge",
-        "cape":"Penitence"
+        "cape":"Penitence",
+		"dps":{
+		}
 
       }
     ],
