@@ -239,8 +239,9 @@
     
   },
   {
-    "abbr": "Quantum Chronomancer",
+    "abbr": "QCM",
     "names":[
+	  "Quantum Chronomancer",
       "Continuum Chronomancer"
     ],
 	"tags":[
