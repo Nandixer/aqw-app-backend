@@ -328,12 +328,14 @@
         }
 
       },
+	  {
         "weapon":"Lacerate",
         "armor":"Luck",
         "helm":"Vim",
         "cape":"Lament",
 		"dps":{
         }
+	  }
 
     ],
 	"combo":[
