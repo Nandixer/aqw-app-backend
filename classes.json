@@ -298,5 +298,50 @@
 		"2 4 2 5"
 	]
     
-  }
+  },
+
+    "abbr": "TK",
+    "names":[
+      "TimeKiller",
+      "TimeKeeper"
+    ],
+	"tags":[
+		"dodge",
+		"chrono",
+		"solo"
+	],
+    "ratings":{
+      "damage":"S",
+      "survival":"A",
+      "farming":"C",
+      "pvp":"B",
+      "ultras":"C",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      },
+        "weapon":"Lacerate",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Lament",
+		"dps":{
+        }
+
+    ],
+	"combo":[
+		"Pre-apply buff:",
+		"3",
+		"Stack and Nuke:",
+		"2 5 2 3 2",
+		"Nuke:",
+		"4"		
+	]
 ]
