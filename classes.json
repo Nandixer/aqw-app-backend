@@ -501,5 +501,67 @@
 		"3 4"
 	]
     
+  },
+  {
+    "abbr": "AM",
+    "names":[
+      "ArchMage"
+    ],
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"A",
+      "farming":"S",
+      "pvp":"B",
+      "ultras":"C",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Elysium",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Vainglory",
+		"dps":{
+        },
+		"name":"Corporeal"
+
+      },
+      {
+        "weapon":"Valiance",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Lament",
+		"dps":{
+        },
+		"name":"Astral"
+
+      },
+	  {
+        "weapon":"Acheron",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Penitence",
+		"dps":{
+        },
+		"name":"Acheron"
+
+      }
+
+    ],
+	"combo":[
+		"Enter Corporeal:",
+		"5 3 5",
+		"Corporeal Loop:",
+		"2 3 4",
+		"Enter Astral:",
+		"5 3 5 5",
+		"Astral Combo:",
+		"2 4 2 4 5"
+
+	]
+    
   }
 ]
