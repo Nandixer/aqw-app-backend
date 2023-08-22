@@ -6,8 +6,10 @@
     ],
 	"tags":[
 		"tank",
-		"solo"
+		"solo",
+		"best"
 	],
+	"best":"tank",
     "ratings":{
       "damage":"A",
       "survival":"S",
@@ -97,8 +99,10 @@
 		"tank",
 		"pvp",
 		"dot",
-		"chrono"
+		"chrono",
+		"best"
 	],
+	"best":"PvP",
     "ratings":{
       "damage":"C",
       "survival":"S",
@@ -136,8 +140,10 @@
 		"farming",
 		"ultra",
 		"support",
-		"dot"
+		"dot",
+		"best"
 	],
+	"best":"ultra",
     "ratings":{
       "damage":"A",
       "survival":"A",
@@ -361,8 +367,10 @@
     ],
 	"tags":[
 		"support",
-		"ultra"
+		"ultra",
+		"best"
 	],
+	"best":"support",
     "ratings":{
       "damage":"D",
       "survival":"B",
@@ -482,7 +490,8 @@
       "Soul Cleaver"
     ],
 	"tags":[
-		"solo"
+		"solo",
+		"pvp"
 	],
     "ratings":{
       "damage":"A",
@@ -518,8 +527,10 @@
     ],
 	"tags":[
 		"farming",
-		"dot"
+		"dot",
+		"best"
 	],
+	"best":"farming",
     "ratings":{
       "damage":"A",
       "survival":"A",
