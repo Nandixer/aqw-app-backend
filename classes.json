@@ -463,6 +463,43 @@
 		"2 5 3 4"
 	]
     
-  }
+  },
+  {
+    "abbr": "EXH",
+    "names":[
+      "Exalted Harbinger",
+      "Dark Harbinger",
+      "Exalted Soul Cleaver",
+      "Soul Cleaver"
+    ],
+	"tags":[
+		"solo"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"D",
+      "farming":"A",
+      "pvp":"S",
+      "ultras":"C",
+      "support":"E"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Anima",
+        "cape":"Vainglory",
+		"dps":{
+        }
 
+      }
+    ],
+	"combo":[
+		"Repeat for damage:",
+		"5 2",
+		"Survivability, if not oneshotting:",
+		"3 4"
+	]
+    
+  }
 ]
