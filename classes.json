@@ -49,7 +49,8 @@
 	"tags":[
 		"dodge",
 		"chrono",
-		"solo"
+		"solo",
+		"dot"
 	],
     "ratings":{
       "damage":"S",
@@ -94,7 +95,8 @@
 		"ultra",
 		"healer",
 		"tank",
-		"pvp"
+		"pvp",
+		"dot"
 	],
     "ratings":{
       "damage":"C",
@@ -132,7 +134,8 @@
 	"tags":[
 		"farming",
 		"ultra",
-		"support"
+		"support",
+		"dot"
 	],
     "ratings":{
       "damage":"A",
@@ -181,7 +184,8 @@
     ],
 	"tags":[
 		"farming",
-		"solo"
+		"solo",
+		"dot"
 	],
     "ratings":{
       "damage":"A",
@@ -260,7 +264,8 @@
     ],
 	"tags":[
 		"chrono",
-		"ultra"
+		"ultra",
+		"dot"
 	],
     "ratings":{
       "damage":"S",
@@ -511,7 +516,8 @@
       "ArchMage"
     ],
 	"tags":[
-		"farming"
+		"farming",
+		"dot"
 	],
     "ratings":{
       "damage":"A",
