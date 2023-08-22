@@ -346,5 +346,86 @@
 		"Nuke:",
 		"4"		
 	]
+  },
+  {
+    "abbr": "LoO",
+    "names":[
+      "Lord of Order"
+    ],
+	"tags":[
+		"support",
+		"ultra"
+	],
+    "ratings":{
+      "damage":"D",
+      "survival":"B",
+      "farming":"D",
+      "pvp":"C",
+      "ultras":"S",
+      "support":"S"
+    },
+    "enhancements":[
+      {
+        "weapon":"Awe Blast (Luck)",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Penitence",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Spam skills:",
+		"2 3 4 5"
+	]
+  },
+  {
+    "abbr": "AP",
+    "names":[
+      "ArchPaladin"
+    ],
+	"tags":[
+		"support",
+		"ultra",
+		"healer",
+		"tank"
+	],
+    "ratings":{
+      "damage":"B",
+      "survival":"S",
+      "farming":"B",
+      "pvp":"B",
+      "ultras":"S",
+      "support":"S"
+    },
+    "enhancements":[
+      {
+        "weapon":"Praxis",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      },
+	  {
+        "weapon":"Valiance",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Penitence",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Spam:",
+		"2",
+		"Heal as needed:",
+		"3",
+		"Loop debuffs:",
+		"4 5"
+	]
   }
 ]
