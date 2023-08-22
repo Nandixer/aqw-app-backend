@@ -96,7 +96,8 @@
 		"healer",
 		"tank",
 		"pvp",
-		"dot"
+		"dot",
+		"chrono"
 	],
     "ratings":{
       "damage":"C",
@@ -574,6 +575,44 @@
 		"Astral Loop:",
 		"2 4 2 4 5"
 
+	]
+    
+  },
+  {
+    "abbr": "NCM",
+    "names":[
+	  "Necrotic Chronomancer",
+      "Nechronomancer"
+    ],
+	"tags":[
+		"farming",
+		"chrono",
+		"dot"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"C",
+      "farming":"S",
+      "pvp":"B",
+      "ultras":"D",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Spammable skills:",
+		"2 3",
+		"Nuke if 4 is available:",
+		"4 5"
 	]
     
   }
