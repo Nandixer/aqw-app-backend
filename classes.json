@@ -427,5 +427,41 @@
 		"Loop debuffs:",
 		"4 5"
 	]
+  },
+  {
+    "abbr": "CAv",
+    "names":[
+      "Chaos Avenger"
+    ],
+	"tags":[
+		"tank",
+		"solo",
+		"ultra"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"S",
+      "farming":"C",
+      "pvp":"B",
+      "ultras":"A",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Spam skills:",
+		"2 5 3 4"
+	]
+    
   }
+
 ]
