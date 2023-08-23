@@ -52,7 +52,8 @@
 		"dodge",
 		"chrono",
 		"solo",
-		"dot"
+		"dot",
+		"complex"
 	],
     "ratings":{
       "damage":"S",
@@ -528,7 +529,8 @@
 	"tags":[
 		"farming",
 		"dot",
-		"best"
+		"best",
+		"complex"
 	],
 	"best":"farming",
     "ratings":{
@@ -637,7 +639,8 @@
 		"dodge",
 		"chrono",
 		"solo",
-		"best"
+		"best",
+		"complex"
 	],
 	"best":"damage",
     "ratings":{
