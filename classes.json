@@ -369,7 +369,8 @@
 	"tags":[
 		"support",
 		"ultra",
-		"best"
+		"best",
+		"healer"
 	],
 	"best":"support",
     "ratings":{
@@ -698,5 +699,42 @@
 
 	]
     
+  },
+  {
+    "abbr": "SC",
+    "names":[
+      "StoneCrusher",
+	  "Infinity Titan"
+    ],
+	"tags":[
+		"support",
+		"ultra",
+		"healer"
+	],
+	"best":"support",
+    "ratings":{
+      "damage":"C",
+      "survival":"A",
+      "farming":"C",
+      "pvp":"C",
+      "ultras":"S",
+      "support":"S"
+    },
+    "enhancements":[
+      {
+        "weapon":"Awe Blast (Luck)",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Penitence",
+		"dps":{
+        },
+		"name":"Ultras"
+
+      }
+    ],
+	"combo":[
+		"Spam skills:",
+		"3 4 2 5"
+	]
   }
 ]
