@@ -626,5 +626,74 @@
 		"4 5"
 	]
     
+  },
+  {
+    "abbr": "TCM",
+    "names":[
+      "Timeless Chronomancer",
+      "Corrupted Chronomancer"
+    ],
+	"tags":[
+		"dodge",
+		"chrono",
+		"solo",
+		"best"
+	],
+	"best":"damage",
+    "ratings":{
+      "damage":"S",
+      "survival":"A",
+      "farming":"C",
+      "pvp":"B",
+      "ultras":"C",
+      "support":"E"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Penitence",
+		"dps":{
+        },
+		"name":"Dauntless Transfinite"
+
+      },
+	  {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+        },
+		"name":"Dauntless Powentropic"
+
+      }
+    ],
+	"combo":[
+		"<--Powentropic-->",
+		"Equip and apply Power:",
+		"6 3",
+		"Equip Entropic at this point",
+		"Powentropic Combo p1:",
+		"6 4 2 2 4",
+		"Powentropic Combo p2:",
+		"2 2 5 3",
+		"",
+		"<--Transfinite-->",
+		"Equip and apply Transcience:",
+		"6",
+		"Equip Infinite at this point",
+		"Setup Transfinite:",
+		"6 4 2 4 3",
+		"Transfinite Combo p1:",
+		"4 2 2 4",
+		"Transfinite Combo p2:",
+		"2 2 5",
+		"Reset Transcience:",
+		"3 4"
+
+	]
+    
   }
 ]
