@@ -42,7 +42,7 @@
     
   },
   {
-    "abbr": "SSoT",
+    "abbr": "SSoT/SWoT",
     "names":[
       "ShadowStalker of Time",
       "ShadowWalker of Time",
@@ -228,7 +228,7 @@
   },
   {
 
-    "abbr": "CMP",
+    "abbr": "CMP/CM",
     "names":[
       "Chronomancer",
       "Chronomancer Prime"
@@ -265,7 +265,7 @@
     
   },
   {
-    "abbr": "QCM",
+    "abbr": "QCM/CCM",
     "names":[
 	  "Quantum Chronomancer",
       "Continuum Chronomancer"
@@ -631,7 +631,7 @@
     
   },
   {
-    "abbr": "TCM",
+    "abbr": "TCM/CCM",
     "names":[
       "Timeless Chronomancer",
       "Corrupted Chronomancer"
@@ -701,7 +701,7 @@
     
   },
   {
-    "abbr": "SC",
+    "abbr": "SC/IT",
     "names":[
       "StoneCrusher",
 	  "Infinity Titan"
