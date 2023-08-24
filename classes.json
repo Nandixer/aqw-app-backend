@@ -735,5 +735,42 @@
 		"Spam skills:",
 		"3 4 2 5"
 	]
+  },
+  {
+    "abbr": "AF",
+    "names":[
+      "ArchFiend"
+    ],
+	"tags":[
+		"farming",
+		"support"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"C",
+      "farming":"S",
+      "pvp":"B",
+      "ultras":"B",
+      "support":"A"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"revenantNsod":22
+        }
+
+      }
+    ],
+	"combo":[
+		"Spammable Skills:",
+		"2 3",
+		"Buff and Nuke:",
+		"4 5"
+	]
+    
   }
 ]
