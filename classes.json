@@ -512,6 +512,7 @@
         "helm":"Anima",
         "cape":"Vainglory",
 		"dps":{
+			"revenantNsod":19
         }
 
       }
@@ -858,7 +859,7 @@
     "ratings":{
       "damage":"A",
       "survival":"A",
-      "farming":"B",
+      "farming":"A",
       "pvp":"A",
       "ultras":"D",
       "support":"D"
@@ -870,6 +871,7 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
+			"revenantNsod":25
         }
 
       }
