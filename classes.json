@@ -679,9 +679,8 @@
 		"Equip and apply Power:",
 		"6 3",
 		"Equip Entropic at this point",
-		"Powentropic Combo p1:",
+		"Powentropic Combo:",
 		"6 4 2 2 4",
-		"Powentropic Combo p2:",
 		"2 2 5 3",
 		"",
 		"<--Transfinite-->",
@@ -690,9 +689,8 @@
 		"Equip Infinite at this point",
 		"Setup Transfinite:",
 		"6 4 2 4 3",
-		"Transfinite Combo p1:",
+		"Transfinite Combo:",
 		"4 2 2 4",
-		"Transfinite Combo p2:",
 		"2 2 5",
 		"Reset Transcience:",
 		"3 4"
@@ -873,13 +871,11 @@
       }
     ],
 	"combo":[
-		"Dodge Combo p1:",
+		"Dodge Combo:",
 		"3 2 2 5",
-		"Dodge Combo p2:",
 		"2 2 5",
-		"Damage Combo p1:",
+		"Damage Combo",
 		"3 4 4 2 4",
-		"Damage Combo p2:",
 		"2 4 2 4 5",
 		"Dauntless, risky DPS:",
 		"2"
