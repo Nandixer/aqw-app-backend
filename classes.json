@@ -772,5 +772,41 @@
 		"4 5"
 	]
     
+  },
+  {
+    "abbr": "VL",
+    "names":[
+      "Vampire Lord"
+    ],
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"C",
+      "farming":"A",
+      "pvp":"C",
+      "ultras":"D",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"revenantNsod":11
+        }
+
+      }
+    ],
+	"combo":[
+		"Without Dauntless",
+		"5 2 3 4",
+		"With Dauntless",
+		"2 3 4"
+	]
+    
   }
 ]
