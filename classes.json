@@ -843,5 +843,47 @@
 		"4 5 3 2"
 	]
     
+  },
+  {
+    "abbr": "YnR",
+    "names":[
+      "Yami no Ronin"
+    ],
+	"tags":[
+		"solo",
+		"dodge"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"A",
+      "farming":"B",
+      "pvp":"A",
+      "ultras":"D",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Dodge Combo p1:",
+		"3 2 2 5",
+		"Dodge Combo p2:",
+		"2 2 5",
+		"Damage Combo p1:",
+		"3 4 4 2 4",
+		"Damage Combo p2:",
+		"2 4 2 4 5",
+		"Dauntless, risky DPS:",
+		"2"
+	]
+    
   }
 ]
