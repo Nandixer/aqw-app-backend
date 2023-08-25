@@ -890,5 +890,39 @@
 		"2"
 	]
     
+  },
+  {
+    "abbr": "EI",
+    "names":[
+      "Eternal Inversionist"
+    ],
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"D",
+      "survival":"C",
+      "farming":"A",
+      "pvp":"C",
+      "ultras":"E",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Valiance",
+        "armor":"Luck",
+        "helm":"Anima",
+        "cape":"Lament",
+		"dps":{
+			"icestormNsod":105
+        }
+
+      }
+    ],
+	"combo":[
+		"Spam Skills on Cooldown:",
+		"3 5 2 4"
+	]
+    
   }
 ]
