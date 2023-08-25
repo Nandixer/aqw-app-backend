@@ -164,7 +164,8 @@
 			"classhall":6475,
 			"classhallNsod":11590,
 			"revenant":17,
-			"revenantNsod":23
+			"revenantNsod":23,
+			"icestormNsod":92
         },
 		"name":"General Use"
 
@@ -871,7 +872,8 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
-			"revenantNsod":25
+			"revenantNsod":25,
+			"icestormNsod":60
         }
 
       }
