@@ -1,3 +1,7 @@
-{
-	"1.1":"Dropdown menu to help search classes by tags. DPS measurement in icestormarena. Minor design improvements."
-}
+[
+	{
+		"number":1001,
+		"changelog":"Dropdown menu to help search classes by tags. DPS measurement in icestormarena. Minor design improvements. App can check for new versions.",
+		"breaking":false
+	}
+]
