@@ -1022,5 +1022,41 @@
 		"2 3 4 5"
 	]
     
+  },
+  {
+    "abbr": "AA",
+    "names":[
+	  "Abyssal Angel",
+	  "Abyssal Angel's Shadow"
+    ],
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"B",
+      "survival":"B",
+      "farming":"A",
+      "pvp":"B",
+      "ultras":"D",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Acheron",
+        "armor":"Luck",
+        "helm":"Examen",
+        "cape":"Lament",
+		"dps":{
+			"revenantNsod":18,
+			"icestormNsod":115
+        }
+
+      }
+    ],
+	"combo":[
+		"Use skills as they cool down:",
+		"2 3 4 5"
+	]
+    
   }
 ]
