@@ -555,6 +555,7 @@
         "helm":"Pneuma",
         "cape":"Vainglory",
 		"dps":{
+			"revenantNsod":30,
 			"icestormNsod":96
         },
 		"name":"Corporeal"
@@ -566,6 +567,7 @@
         "helm":"Pneuma",
         "cape":"Lament",
 		"dps":{
+			"revenantNsod":30,
 			"icestormNsod":104
         },
 		"name":"Astral"
@@ -577,6 +579,7 @@
         "helm":"Pneuma",
         "cape":"Penitence",
 		"dps":{
+			"revenantNsod":30,
 			"icestormNsod":119
         },
 		"name":"Acheron"
@@ -627,6 +630,7 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
+			"revenantNsod":25,
 			"icestormNsod":64
         }
 
