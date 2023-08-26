@@ -925,5 +925,55 @@
 		"3 5 2 4"
 	]
     
+  },
+  {
+    "abbr": "ICM/ECM",
+    "names":[
+	  "Immortal Chronomancer",
+      "Eternal Chronomancer",
+      "Empyrean Chronomancer"
+    ],
+	"tags":[
+		"chrono"
+	],
+    "ratings":{
+      "damage":"S",
+      "survival":"B",
+      "farming":"C",
+      "pvp":"C",
+      "ultras":"D",
+      "support":"E"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"classhallNsod":53614
+        }
+
+      }
+    ],
+	"combo":[
+		"Prestack defense (optional):",
+		"3 3 3",
+		"",
+		"Initial setup",
+		"Repeat 6 times:",
+		"2 5",
+		"Nuke:",
+		"2 3 4",
+		"",
+		"Post-setup combo",
+		"Repeat 4 times*:",
+		"4 5",
+		"Nuke:",
+		"5 3 4",
+		"",
+		"Continue from post-setup"
+	]
+    
   }
 ]
