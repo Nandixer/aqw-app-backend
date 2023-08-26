@@ -1054,8 +1054,9 @@
       }
     ],
 	"combo":[
-		"Use skills as they cool down:",
-		"2 3 4 5"
+		"Use farming skills on cooldown:",
+		"3 4 5",
+		"Occasionally let Acheron fade."
 	]
     
   }
