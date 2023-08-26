@@ -975,5 +975,40 @@
 		"Continue from post-setup"
 	]
     
+  },
+  {
+    "abbr": "SSoG",
+    "names":[
+	  "ShadowScythe General"
+    ],
+	"tags":[
+		"tank",
+		"farming"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"A",
+      "farming":"A",
+      "pvp":"A",
+      "ultras":"D",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Valiance",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"icestormNsod":79
+        }
+
+      }
+    ],
+	"combo":[
+		"Use skills as they cool down:",
+		"2 3 4 5"
+	]
+    
   }
 ]
