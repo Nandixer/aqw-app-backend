@@ -806,7 +806,8 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
-			"revenantNsod":11
+			"revenantNsod":11,
+			"icestormNsod":50
         }
 
       }
@@ -844,7 +845,8 @@
         "helm":"Pneuma",
         "cape":"Avarice",
 		"dps":{
-			"revenantNsod":15
+			"revenantNsod":15,
+			"icestormNsod":76
         }
 
       }
