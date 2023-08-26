@@ -3,5 +3,10 @@
 		"number":1001,
 		"changelog":"Dropdown menu to help search classes by tags. DPS measurement in icestormarena. Minor design improvements. App can check for new versions.",
 		"breaking":false
+	},
+	{
+		"number":1002,
+		"changelog":"Classes can be sorted by rating and measured statistics. App update notifications are now less annoying. Support for comparison of measured statistics.",
+		"breaking":false
 	}
 ]
