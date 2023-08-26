@@ -216,7 +216,9 @@
 			"classhall":9181,
 			"classhallNsod":10411,
 			"revenant":18,
-			"revenantNsod":20
+			"revenantNsod":20,
+			"icestorm":67,
+			"icestormNsod":74
         }
 
       }
@@ -564,6 +566,7 @@
         "helm":"Pneuma",
         "cape":"Lament",
 		"dps":{
+			"icestormNsod":104
         },
 		"name":"Astral"
 
@@ -574,6 +577,7 @@
         "helm":"Pneuma",
         "cape":"Penitence",
 		"dps":{
+			"icestormNsod":119
         },
 		"name":"Acheron"
 
@@ -623,6 +627,7 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
+			"icestormNsod":64
         }
 
       }
@@ -764,7 +769,8 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
-			"revenantNsod":22
+			"revenantNsod":22,
+			"icestormNsod":68
         }
 
       }
