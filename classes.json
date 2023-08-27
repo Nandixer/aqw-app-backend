@@ -1099,5 +1099,41 @@
 		"Alternate between the two when low health."
 	]
     
+  },
+  {
+    "abbr": "LC",
+    "names":[
+	  "LightCaster"
+    ],
+	"tags":[
+		"solo",
+		"support",
+		"healer"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"B",
+      "farming":"B",
+      "pvp":"B",
+      "ultras":"B",
+      "support":"S"
+    },
+    "enhancements":[
+      {
+        "weapon":"Praxis",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Lament",
+		"dps":{
+			"classhallNsod":12819
+        }
+
+      }
+    ],
+	"combo":[
+		"Use skills as they cool down:",
+		"4 2 3 5"
+	]
+    
   }
 ]
