@@ -568,9 +568,10 @@
         "cape":"Lament",
 		"dps":{
 			"revenantNsod":30,
-			"icestormNsod":104
+			"icestormNsod":137
         },
-		"name":"Astral"
+		"name":"Astral",
+		"mine":false
 
       },
 	  {
@@ -929,6 +930,17 @@
 		"dps":{
 			"icestormNsod":105
         }
+
+      },
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Anima",
+        "cape":"Vainglory",
+		"dps":{
+			"icestormNsod":145
+        },
+		"mine":false
 
       }
     ],
