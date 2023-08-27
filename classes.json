@@ -989,7 +989,7 @@
     
   },
   {
-    "abbr": "SSoG",
+    "abbr": "SSG",
     "names":[
 	  "ShadowScythe General"
     ],
@@ -1057,6 +1057,46 @@
 		"Use farming skills on cooldown:",
 		"3 4 5",
 		"Occasionally let Acheron fade."
+	]
+    
+  },
+  {
+    "abbr": "DMN/HMN/HMR/SR/UR",
+    "names":[
+	  "Doom Metal Necro",
+	  "Heavy Metal Necro & Rockstar",
+	  "Shadow Ripper",
+	  "Unchained Rockstar"
+    ],
+	"tags":[
+		"solo"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"D",
+      "farming":"C",
+      "pvp":"A",
+      "ultras":"C",
+      "support":"D"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Vainglory",
+		"dps":{
+			"classhallNsod":18406
+        }
+
+      }
+    ],
+	"combo":[
+		"Combo to reduce health:",
+		"2 5 3 4",
+		"Combo to sustain health:",
+		"2 3 4",
+		"Alternate between the two when low health."
 	]
     
   }
