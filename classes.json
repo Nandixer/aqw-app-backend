@@ -1147,5 +1147,41 @@
 		"4 2 3 5"
 	]
     
+  },
+  {
+    "abbr": "FSR",
+    "names":[
+      "Frost SpiritReaver"
+    ],
+	"tags":[
+		"solo",
+		"pvp"
+	],
+    "ratings":{
+      "damage":"B",
+      "survival":"B",
+      "farming":"D",
+      "pvp":"A",
+      "ultras":"C",
+      "support":"C"
+    },
+    "enhancements":[
+      {
+        "weapon":"Valiance",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Nuke Cycle:",
+		"5 4 4 4 5",
+		"Spam off Cooldown (during cycle):",
+		"2 3"
+	]
+    
   }
 ]
