@@ -1172,7 +1172,18 @@
         "helm":"Pneuma",
         "cape":"Vainglory",
 		"dps":{
-        }
+        },
+		"name":"General Use"
+
+      },
+      {
+        "weapon":"Acheron",
+        "armor":"Wizard",
+        "helm":"Examen",
+        "cape":"Vainglory",
+		"dps":{
+        },
+		"name":"DPS Optimized"
 
       }
     ],
