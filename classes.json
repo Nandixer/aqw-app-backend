@@ -4,6 +4,7 @@
     "names":[
       "Void Highlord"
     ],
+	"description":"<@@>",
 	"tags":[
 		"tank",
 		"solo",
@@ -49,6 +50,7 @@
       "ShadowWalker of Time",
       "ShadowWeaver of Time"
     ],
+	"description":"<@@>",
 	"tags":[
 		"dodge",
 		"chrono",
@@ -94,6 +96,7 @@
       "Paladin Chronomancer",
       "Obsidian Paladin Chronomancer"
     ],
+	"description":"<@@>",
 	"tags":[
 		"support",
 		"ultra",
@@ -138,6 +141,7 @@
     "names":[
       "Legion Revenant"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming",
 		"ultra",
@@ -192,6 +196,7 @@
     "names":[
       "Dragon of Time"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming",
 		"solo",
@@ -238,6 +243,7 @@
       "Chronomancer",
       "Chronomancer Prime"
     ],
+	"description":"<@@>",
 	"tags":[
 		"chrono"
 	],
@@ -275,6 +281,7 @@
 	  "Quantum Chronomancer",
       "Continuum Chronomancer"
     ],
+	"description":"<@@>",
 	"tags":[
 		"chrono",
 		"ultra",
@@ -324,6 +331,7 @@
       "TimeKiller",
       "TimeKeeper"
     ],
+	"description":"<@@>",
 	"tags":[
 		"dodge",
 		"chrono",
@@ -371,6 +379,7 @@
     "names":[
       "Lord of Order"
     ],
+	"description":"<@@>",
 	"tags":[
 		"support",
 		"ultra",
@@ -408,6 +417,7 @@
     "names":[
       "ArchPaladin"
     ],
+	"description":"<@@>",
 	"tags":[
 		"support",
 		"ultra",
@@ -458,6 +468,7 @@
     "names":[
       "Chaos Avenger"
     ],
+	"description":"<@@>",
 	"tags":[
 		"tank",
 		"solo",
@@ -496,6 +507,7 @@
       "Exalted Soul Cleaver",
       "Soul Cleaver"
     ],
+	"description":"<@@>",
 	"tags":[
 		"solo",
 		"pvp"
@@ -533,6 +545,7 @@
     "names":[
       "ArchMage"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming",
 		"dot",
@@ -611,6 +624,7 @@
 	  "Necrotic Chronomancer",
       "Nechronomancer"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming",
 		"chrono",
@@ -651,6 +665,7 @@
       "Timeless Chronomancer",
       "Corrupted Chronomancer"
     ],
+	"description":"<@@>",
 	"tags":[
 		"dodge",
 		"chrono",
@@ -720,6 +735,7 @@
       "StoneCrusher",
 	  "Infinity Titan"
     ],
+	"description":"<@@>",
 	"tags":[
 		"support",
 		"ultra",
@@ -755,6 +771,7 @@
     "names":[
       "ArchFiend"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming",
 		"support"
@@ -793,6 +810,7 @@
     "names":[
       "Vampire Lord"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming"
 	],
@@ -830,6 +848,7 @@
     "names":[
       "Blaze Binder"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming",
 		"dot",
@@ -867,6 +886,7 @@
     "names":[
       "Yami no Ronin"
     ],
+	"description":"<@@>",
 	"tags":[
 		"solo",
 		"dodge",
@@ -910,6 +930,7 @@
     "names":[
       "Eternal Inversionist"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming"
 	],
@@ -957,6 +978,7 @@
       "Eternal Chronomancer",
       "Empyrean Chronomancer"
     ],
+	"description":"<@@>",
 	"tags":[
 		"chrono"
 	],
@@ -1005,6 +1027,7 @@
     "names":[
 	  "ShadowScythe General"
     ],
+	"description":"<@@>",
 	"tags":[
 		"tank",
 		"farming"
@@ -1041,6 +1064,7 @@
 	  "Abyssal Angel",
 	  "Abyssal Angel's Shadow"
     ],
+	"description":"<@@>",
 	"tags":[
 		"farming"
 	],
@@ -1080,6 +1104,7 @@
 	  "Shadow Ripper",
 	  "Unchained Rockstar"
     ],
+	"description":"<@@>",
 	"tags":[
 		"solo"
 	],
@@ -1117,6 +1142,7 @@
     "names":[
 	  "LightCaster"
     ],
+	"description":"<@@>",
 	"tags":[
 		"solo",
 		"support",
@@ -1153,6 +1179,7 @@
     "names":[
       "Frost SpiritReaver"
     ],
+	"description":"<@@>",
 	"tags":[
 		"solo",
 		"pvp"
