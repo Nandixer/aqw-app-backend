@@ -4,7 +4,7 @@
     "names":[
       "Void Highlord"
     ],
-	"description":"<@@>",
+	"description":"A high-damage soloer and tank class who can win PvP matches through its sheer damage and survivability. Contributes very little to team play.",
 	"tags":[
 		"tank",
 		"solo",
@@ -50,7 +50,7 @@
       "ShadowWalker of Time",
       "ShadowWeaver of Time"
     ],
-	"description":"<@@>",
+	"description":"A great all-around Chrono to clear most of the game's content. It alternates between buffing its own Dodge and debuffing the enemy's Hit Chance to make sure it never gets hit. Great for bossing in both solo and team play, decent at farming and PvP.",
 	"video":"https://www.youtube.com/watch?v=Pz34RQGUKOg",
 	"tags":[
 		"dodge",
@@ -97,7 +97,7 @@
       "Paladin Chronomancer",
       "Obsidian Paladin Chronomancer"
     ],
-	"description":"<@@>",
+	"description":"A dedicated healer tank that plays a supporting role in bossing and ultras. Its health-scaling damage make it nearly unbeatable in PvP. Otherwise, its damage is quite low.",
 	"video":"https://www.youtube.com/watch?v=4jU89FzIaFI",
 	"tags":[
 		"support",
@@ -143,7 +143,7 @@
     "names":[
       "Legion Revenant"
     ],
-	"description":"<@@>",
+	"description":"Jack-of-all-trades, master of some, Legion Revenant sets the standard for a farming class. It's also the best offensive support, and used in all ultras.",
 	"tags":[
 		"farming",
 		"ultra",
@@ -198,7 +198,7 @@
     "names":[
       "Dragon of Time"
     ],
-	"description":"<@@>",
+	"description":"A solid all-arounder that deals Damage Over Time. Meta farmer. Great at PvP due to its health-scaling and self-healing. Used in some ultras for its DPS.",
 	"tags":[
 		"farming",
 		"solo",
@@ -245,7 +245,7 @@
       "Chronomancer",
       "Chronomancer Prime"
     ],
-	"description":"<@@>",
+	"description":"Does one thing and one thing well: chainkills. Its low cooldown on its nuke and ability to stack Temporal Rift quickly allow for quick oneshots on bosses. Best when supported.",
 	"tags":[
 		"chrono"
 	],
@@ -273,7 +273,8 @@
 	"combo":[
 		"Repeat:",
 		"2 2 2 2 4",
-		"The other two skills are not needed with Dauntless."
+		"The other two skills are not needed with Dauntless.",
+		"Sometimes, three stacks might be enough."
 	]
     
   },
@@ -283,7 +284,7 @@
 	  "Quantum Chronomancer",
       "Continuum Chronomancer"
     ],
-	"description":"<@@>",
+	"description":"A chronomancer designed for a supportive playstyle. Offers buffs and debuffs, and increased damage the larger the party. Used in some ultras, as well as PvP.",
 	"tags":[
 		"chrono",
 		"ultra",
@@ -333,7 +334,7 @@
       "TimeKiller",
       "TimeKeeper"
     ],
-	"description":"<@@>",
+	"description":"A reliable dodge-based chrono class. Best used for bossing.",
 	"tags":[
 		"dodge",
 		"chrono",
@@ -381,7 +382,7 @@
     "names":[
       "Lord of Order"
     ],
-	"description":"<@@>",
+	"description":"The best support in the game. Used in all ultras. Not recommended for solo play.",
 	"tags":[
 		"support",
 		"ultra",
@@ -419,7 +420,7 @@
     "names":[
       "ArchPaladin"
     ],
-	"description":"<@@>",
+	"description":"A team player to protect your party. Damage is actually decent. Used in all ultras.",
 	"videos":[
 		"https://www.youtube.com/shorts/avplS3_XN5U"
 	],
@@ -473,7 +474,7 @@
     "names":[
       "Chaos Avenger"
     ],
-	"description":"<@@>",
+	"description":"A tank with good damage output that can taunt and debuff the enemy. Used in some ultras.",
 	"tags":[
 		"tank",
 		"solo",
@@ -512,7 +513,7 @@
       "Exalted Soul Cleaver",
       "Soul Cleaver"
     ],
-	"description":"<@@>",
+	"description":"A class focused on dealing damage on low health. Great for farming monsters and minibosses it oneshots. Risky playstyle, but great with Dauntless.",
 	"videos":[
 		"https://www.youtube.com/shorts/CAE3Kqq3nOk"
 	],
@@ -553,7 +554,7 @@
     "names":[
       "ArchMage"
     ],
-	"description":"<@@>",
+	"description":"The best farming class in the game. Good synergy with Forge enhancements. Somewhat complex but worth using.",
 	"videos":[
 		"https://www.youtube.com/watch?v=BmP2oV0UhZ0",
 		"https://www.youtube.com/watch?v=uiU8FZBLkXA"
@@ -636,7 +637,7 @@
 	  "Necrotic Chronomancer",
       "Nechronomancer"
     ],
-	"description":"<@@>",
+	"description":"A farming-based chronomancer. Good damage and AoE skillset.",
 	"tags":[
 		"farming",
 		"chrono",
@@ -677,7 +678,7 @@
       "Timeless Chronomancer",
       "Corrupted Chronomancer"
     ],
-	"description":"<@@>",
+	"description":"A very complex class, but once learned, it will clear most content with ease. Extremely high damage combined with max dodge.",
 	"videos":[
 		"https://www.youtube.com/watch?v=oM2BBb15hrQ",
 		"https://www.youtube.com/watch?v=fun2gOOcN8o",
@@ -752,7 +753,7 @@
       "StoneCrusher",
 	  "Infinity Titan"
     ],
-	"description":"<@@>",
+	"description":"A very solid support class that offers buffs, debuffs, and mana cost reduction.",
 	"tags":[
 		"support",
 		"ultra",
@@ -788,7 +789,7 @@
     "names":[
       "ArchFiend"
     ],
-	"description":"<@@>",
+	"description":"Dual-target, high damage farmer. Underrated as an offensive support. Great with Dauntless.",
 	"tags":[
 		"farming",
 		"support"
@@ -827,7 +828,7 @@
     "names":[
       "Vampire Lord"
     ],
-	"description":"<@@>",
+	"description":"A good midgame farming class.",
 	"tags":[
 		"farming"
 	],
@@ -865,7 +866,7 @@
     "names":[
       "Blaze Binder"
     ],
-	"description":"<@@>",
+	"description":"Midgame farming class with some uses in PvP. Relies on DoT for damage.",
 	"tags":[
 		"farming",
 		"dot",
@@ -903,7 +904,7 @@
     "names":[
       "Yami no Ronin"
     ],
-	"description":"<@@>",
+	"description":"A soloer with max dodge even when AFK. Higher-risk combos allow for higher damage. Meta in PvP.",
 	"tags":[
 		"solo",
 		"dodge",
@@ -947,7 +948,7 @@
     "names":[
       "Eternal Inversionist"
     ],
-	"description":"<@@>",
+	"description":"A midgame farming class that gets better in rooms with more enemies.",
 	"tags":[
 		"farming"
 	],
@@ -995,7 +996,7 @@
       "Eternal Chronomancer",
       "Empyrean Chronomancer"
     ],
-	"description":"<@@>",
+	"description":"An extremely high-nuking chrono at the cost of a long stacking cycle. Works both in solo play and when supported.",
 	"videos":[
 		"https://www.youtube.com/shorts/px15ch3EVDI"
 	],
@@ -1047,7 +1048,7 @@
     "names":[
 	  "ShadowScythe General"
     ],
-	"description":"<@@>",
+	"description":"A midgame tank, farming class, and PvPer.",
 	"tags":[
 		"tank",
 		"farming"
@@ -1084,7 +1085,7 @@
 	  "Abyssal Angel",
 	  "Abyssal Angel's Shadow"
     ],
-	"description":"<@@>",
+	"description":"A farming class with a strong auto attack and good self-healing.",
 	"tags":[
 		"farming"
 	],
@@ -1124,7 +1125,7 @@
 	  "Shadow Ripper",
 	  "Unchained Rockstar"
     ],
-	"description":"<@@>",
+	"description":"Low-health, high damage DPS class. Risky playstyle, works best with Dauntless.",
 	"videos":[
 		"https://www.youtube.com/shorts/B_lgZvbkrg4"
 	],
@@ -1165,7 +1166,7 @@
     "names":[
 	  "LightCaster"
     ],
-	"description":"<@@>",
+	"description":"Great damage output and solid supporting abilities. Just a hair under top-tier.",
 	"tags":[
 		"solo",
 		"support",
@@ -1202,7 +1203,7 @@
     "names":[
       "Frost SpiritReaver"
     ],
-	"description":"<@@>",
+	"description":"A PvP-focused class that can solo as well. Relies on enemy debuffs.",
 	"tags":[
 		"solo",
 		"pvp"
