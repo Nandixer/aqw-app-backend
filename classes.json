@@ -51,6 +51,7 @@
       "ShadowWeaver of Time"
     ],
 	"description":"<@@>",
+	"video":"https://www.youtube.com/watch?v=Pz34RQGUKOg",
 	"tags":[
 		"dodge",
 		"chrono",
@@ -97,6 +98,7 @@
       "Obsidian Paladin Chronomancer"
     ],
 	"description":"<@@>",
+	"video":"https://www.youtube.com/watch?v=4jU89FzIaFI",
 	"tags":[
 		"support",
 		"ultra",
@@ -418,6 +420,9 @@
       "ArchPaladin"
     ],
 	"description":"<@@>",
+	"videos":[
+		"https://www.youtube.com/shorts/avplS3_XN5U"
+	],
 	"tags":[
 		"support",
 		"ultra",
@@ -508,6 +513,9 @@
       "Soul Cleaver"
     ],
 	"description":"<@@>",
+	"videos":[
+		"https://www.youtube.com/shorts/CAE3Kqq3nOk"
+	],
 	"tags":[
 		"solo",
 		"pvp"
@@ -546,6 +554,10 @@
       "ArchMage"
     ],
 	"description":"<@@>",
+	"videos":[
+		"https://www.youtube.com/watch?v=BmP2oV0UhZ0",
+		"https://www.youtube.com/watch?v=uiU8FZBLkXA"
+	],
 	"tags":[
 		"farming",
 		"dot",
@@ -666,6 +678,11 @@
       "Corrupted Chronomancer"
     ],
 	"description":"<@@>",
+	"videos":[
+		"https://www.youtube.com/watch?v=oM2BBb15hrQ",
+		"https://www.youtube.com/watch?v=fun2gOOcN8o",
+		"https://www.youtube.com/watch?v=y9X4NzTyllo"
+	],
 	"tags":[
 		"dodge",
 		"chrono",
@@ -979,6 +996,9 @@
       "Empyrean Chronomancer"
     ],
 	"description":"<@@>",
+	"videos":[
+		"https://www.youtube.com/shorts/px15ch3EVDI"
+	],
 	"tags":[
 		"chrono"
 	],
@@ -1105,6 +1125,9 @@
 	  "Unchained Rockstar"
     ],
 	"description":"<@@>",
+	"videos":[
+		"https://www.youtube.com/shorts/B_lgZvbkrg4"
+	],
 	"tags":[
 		"solo"
 	],
