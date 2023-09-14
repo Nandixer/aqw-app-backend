@@ -1242,8 +1242,46 @@
 		"Nuke Cycle:",
 		"5 4 4 4 5",
 		"Spam off Cooldown (during cycle):",
-		"2 3"
+		"2 3",
+		"PvP Combo:",
+		"2 5 4 3 2"
 	]
     
+  },
+  {
+    "abbr": "ESH",
+    "names":[
+      "Evolved Shaman"
+    ],
+	"description":"Intended to be a farming class, Evolved Shaman ended up being overpowered in PvP due to its ability to perma-stun an opponent. Niche uses to infinitely scaling damage.",
+	"tags":[
+		"pvp",
+		"farming"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"C",
+      "farming":"B",
+      "pvp":"S",
+      "ultras":"D",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Elysium",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Start with Elemental Grasp",
+		"5",
+		"Spam off Cooldown",
+		"2 3"
+	]
   }
 ]
