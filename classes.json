@@ -1283,5 +1283,42 @@
 		"Spam off Cooldown",
 		"2 3"
 	]
+  },
+  {
+    "abbr": "VDK",
+    "names":[
+      "Verus DoomKnight"
+    ],
+	"description":"(pre-release theoretical builds and ratings)",
+	"tags":[
+		"pvp",
+		"farming"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"B",
+      "farming":"D",
+      "pvp":"A",
+      "ultras":"A",
+      "support":"A"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Stack Doom:",
+		"3 4 2 5",
+		"3 4 2 5",
+		"Unleash on Soul Fracture",
+		"3 4 5 2"
+	]
   }
 ]
