@@ -1320,5 +1320,41 @@
 		"Unleash on Soul Fracture",
 		"3 4 5 2"
 	]
+  },
+  {
+    "abbr": "SH",
+    "names":[
+      "Shaman"
+    ],
+	"description":"A farming class with potential for infinite damage in drawn-out fights.",
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"B",
+      "survival":"C",
+      "farming":"A",
+      "pvp":"C",
+      "ultras":"C",
+      "support":"C"
+    },
+    "enhancements":[
+      {
+        "weapon":"Elysium",
+        "armor":"Healer",
+        "helm":"Healer",
+        "cape":"Lament",
+		"dps":{
+        },
+		"name":"Bossing"
+
+      }
+    ],
+	"combo":[
+		"Start with Elemental Grasp",
+		"5",
+		"Spam off Cooldown",
+		"2 3"
+	]
   }
 ]
