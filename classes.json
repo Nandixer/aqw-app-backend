@@ -1406,5 +1406,75 @@
 		"2"
 	],
 	"credit":"Dagon, Shiminuki"
+  },
+  {
+    "abbr": "SS",
+    "names":[
+      "Scarlet Sorceress"
+    ],
+	"description":"An early- to mid-game farming class.",
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"C",
+      "farming":"A",
+      "pvp":"C",
+      "ultras":"D",
+      "support":"C"
+    },
+    "enhancements":[
+      {
+        "weapon":"Awe Blast (Wizard)",
+        "armor":"Wizard",
+        "helm":"Wizard",
+        "cape":"Wizard",
+		"dps":{
+        },
+		"name":"Farming, no Forge"
+
+      }
+    ],
+	"combo":[
+		"Stack up:",
+		"5 5 5 5",
+		"Skills as they cool down:",
+		"5 3 2 4"
+	]
+  },
+  {
+    "abbr": "BS",
+    "names":[
+      "Blood Sorceress"
+    ],
+	"description":"An early-game farming class.",
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"C",
+      "farming":"B",
+      "pvp":"C",
+      "ultras":"D",
+      "support":"C"
+    },
+    "enhancements":[
+      {
+        "weapon":"Awe Blast (Wizard)",
+        "armor":"Wizard",
+        "helm":"Wizard",
+        "cape":"Wizard",
+		"dps":{
+        },
+		"name":"Farming, no Forge"
+
+      }
+    ],
+	"combo":[
+		"Skills as they cool down:",
+		"5 3 2 4"
+	]
   }
 ]
