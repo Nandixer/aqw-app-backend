@@ -1476,5 +1476,41 @@
 		"Skills as they cool down:",
 		"5 3 2 4"
 	]
+  },
+  {
+    "abbr": "CA",
+    "names":[
+      "Chrono Assassin"
+    ],
+	"description":"A dodge class with fast auto-attacks and Temporal Insanity.",
+	"tags":[
+		"dodge",
+		"pvp"
+	],
+    "ratings":{
+      "damage":"B",
+      "survival":"B",
+      "farming":"C",
+      "pvp":"A",
+      "ultras":"D",
+      "support":"C"
+    },
+    "enhancements":[
+      {
+        "weapon":"Powerword Die (Luck)",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+        },
+		"name":"Nuke build"
+
+      }
+    ],
+	"combo":[
+		"Skills as they cool down:",
+		"3 2 4 5"
+	],
+	"credit": "(help needed)"
   }
 ]
