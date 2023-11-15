@@ -1382,7 +1382,18 @@
         "helm":"Pneuma",
         "cape":"Vainglory",
 		"dps":{
-        }
+        },
+		"name":"Farming"
+
+      },
+      {
+        "weapon":"Spiral Carve (Wizard)",
+        "armor":"Wizard",
+        "helm":"Wizard",
+        "cape":"Wizard",
+		"dps":{
+        },
+		"name":"Farming, no Forge"
 
       }
     ],
