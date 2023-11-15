@@ -1356,5 +1356,44 @@
 		"Spam off Cooldown",
 		"2 3"
 	]
+  },
+  {
+    "abbr": "MoM/DMoM",
+    "names":[
+      "Master of Moglins",
+      "Dark Master of Moglins"
+    ],
+	"description":"A farming class with stackable buffs and debuffs.",
+	"tags":[
+		"farming"
+	],
+    "ratings":{
+      "damage":"C",
+      "survival":"B",
+      "farming":"S",
+      "pvp":"C",
+      "ultras":"D",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Elysium",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Vainglory",
+		"dps":{
+        }
+
+      }
+    ],
+	"combo":[
+		"Stack up:",
+		"3 4",
+		"Nuke:",
+		"5",
+		"Heal (affects other players):",
+		"2"
+	],
+	"credit":"Dagon, Shiminuki"
   }
 ]
