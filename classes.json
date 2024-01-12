@@ -1513,5 +1513,54 @@
 		"3 2 4 5"
 	],
 	"credit": "(help needed)"
+  },
+  {
+    "abbr": "LDK",
+    "names":[
+      "Legion DoomKnight"
+    ],
+	"description":"A soloing class who scales well with Dauntless and Smite. Good for Ultra Dage.",
+	"tags":[
+		"solo"
+	],
+    "ratings":{
+      "damage":"A",
+      "survival":"B",
+      "farming":"C",
+      "pvp":"B",
+      "ultras":"A",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Dauntless",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Vainglory",
+		"dps":{
+          "classhall":7245,
+          "classhallNsod":10556
+		},
+		"name":"Dauntless Build"
+
+      },
+      {
+        "weapon":"Smite",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Lament",
+		"dps":{
+          "classhall":7086,
+          "classhallNsod":9950
+		},
+		"name":"Smite Build"
+
+      }
+    ],
+	"combo":[
+		"Skills as they cool down:",
+		"3 2 4 5"
+	],
+	"credit": "(help needed)"
   }
 ]
