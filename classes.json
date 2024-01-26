@@ -662,7 +662,22 @@
 			"classhall":12264,
 			"classhallNsod":17779,
 			"revenantNsod":27,
-			"icestormNsod":64
+			"icestormNsod":64,
+			"icestorm":55,
+			"revenant":22
+        }
+
+      },
+      {
+        "weapon":"Arcana",
+        "armor":"Luck",
+        "helm":"Vim",
+        "cape":"Vainglory",
+		"dps":{
+			"revenantNsod":23,
+			"icestormNsod":75,
+			"icestorm":59,
+			"revenant":16
         }
 
       }
