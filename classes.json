@@ -659,7 +659,9 @@
         "helm":"Vim",
         "cape":"Vainglory",
 		"dps":{
-			"revenantNsod":25,
+			"classhall":12264,
+			"classhallNsod":17779,
+			"revenantNsod":27,
 			"icestormNsod":64
         }
 
