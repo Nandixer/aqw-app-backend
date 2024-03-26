@@ -1579,5 +1579,38 @@
 		"Skills as they cool down:",
 		"3 2 4 5"
 	]
+  },
+  {
+    "abbr": "CSS",
+    "names":[
+      "Chrono ShadowSlayer"
+    ],
+	"description":"A DPS-oriented chrono class. Requires fast button input.",
+	"tags":[
+		"solo"
+	],
+    "ratings":{
+      "damage":"S",
+      "survival":"B",
+      "farming":"C",
+      "pvp":"B",
+      "ultras":"A",
+      "support":"B"
+    },
+    "enhancements":[
+      {
+        "weapon":"Spiral Carve (Luck)",
+        "armor":"Luck",
+        "helm":"Forge",
+        "cape":"Forge",
+		"dps":{
+		},
+		"name":"Common Build"
+
+      }
+    ],
+	"combo":[
+	],
+	"credit":"Hilm"
   }
 ]
