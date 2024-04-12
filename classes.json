@@ -185,6 +185,16 @@
         },
 		"name":"Ultras"
 
+      },
+      {
+        "weapon":"Acheron",
+        "armor":"Wizard",
+        "helm":"Pneuma",
+        "cape":"Penitence",
+		"dps":{
+        },
+		"name":"Risky DPS"
+
       }
     ],
 	"combo":[
@@ -1043,20 +1053,21 @@
       }
     ],
 	"combo":[
+		"Note: Combo is outdated.",
 		"Prestack defense (optional):",
-		"3 3 3",
+		"5 5 5",
 		"",
 		"Initial setup",
 		"Repeat 6 times:",
-		"2 5",
+		"2 3",
 		"Nuke:",
-		"2 3 4",
+		"2 5 4",
 		"",
 		"Post-setup combo",
 		"Repeat 4 times*:",
-		"4 5",
+		"3 2",
 		"Nuke:",
-		"5 3 4",
+		"3 5 4",
 		"",
 		"Continue from post-setup"
 	]
