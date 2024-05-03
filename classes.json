@@ -1625,11 +1625,12 @@
 	"credit":"Hilm"
   },
   {
-    "abbr": "Arcana Invoker",
+    "abbr": "AI",
     "names":[
       "Arcana Invoker"
     ],
 	"description":"A two-target DPS-farming hybrid class.",
+	"video":"https://www.youtube.com/watch?v=omUu13a9SrE",
 	"tags":[
 		"solo",
 		"complex"
@@ -1644,7 +1645,7 @@
     },
     "enhancements":[
       {
-        "weapon":"Elysium",
+        "weapon":"Valiance",
         "armor":"Wizard",
         "helm":"Pneuma",
         "cape":"Vainglory",
@@ -1660,7 +1661,7 @@
         "cape":"Lament",
 		"dps":{
 		},
-		"name":"Lament Version"
+		"name":"Elysium Version"
 
       }
     ],
