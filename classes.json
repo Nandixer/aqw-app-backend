@@ -773,7 +773,14 @@
 		"Reset Transcience:",
 		"3 4"
 
-	]
+	],
+	"icons":{
+		"1":"http://aqwwiki.wdfiles.com/local--files/classes-skills/ChronoAA.png",
+		"2":"http://aqwwiki.wdfiles.com/local--files/classes-skills/ChronoA1.png",
+		"3":"http://aqwwiki.wdfiles.com/local--files/classes-skills/ChronoA2.png",
+		"4":"http://aqwwiki.wdfiles.com/local--files/classes-skills/ChronoA3.png",
+		"5":"http://aqwwiki.wdfiles.com/local--files/classes-skills/ChronoA4.png"
+	}
     
   },
   {
